@@ -40,30 +40,3 @@ button {
     border-radius: 4px;
     cursor: pointer;
 }
-
-a {
-    color: #ff6b6b;
-    text-decoration: none;
-}
-
-a:hover {
-    color: #ff8e8e;
-    text-decoration: underline;
-}
-
-a:link {
-    color: #ff6b6b;
-}
-
-a:visited {
-    color: #d45a5a;
-}
-
-a:hover {
-    color: #ff8e8e;
-    text-decoration: underline;
-}
-
-a:active {
-    color: #ff4747;
-}
